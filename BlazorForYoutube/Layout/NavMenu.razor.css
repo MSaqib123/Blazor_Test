@@ -71,7 +71,6 @@
     }
 
     .collapse {
-         never collapse the sidebar for wide screens 
         display: block;
     }
 
@@ -81,3 +80,5 @@
         overflow-y: auto;
     }
 }
+
+
